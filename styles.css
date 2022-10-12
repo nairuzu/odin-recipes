@@ -1,0 +1,14 @@
+.headings {
+    background-color: yellow;
+    color: #03a1fc;
+    display: inline-block;
+}
+.fried-chicken-picture {
+    height: 400px;
+    width: auto;
+}
+
+.chicken-parm-picture {
+    max-width: 75%;
+    max-height: 75%;
+}
